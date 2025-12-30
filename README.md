@@ -1,4 +1,4 @@
-# Price Tracker – Flipkart (Python Automation)
+# Web Scraping Product Price Tracker – Flipkart (Python Automation)
 A simple Python-based price tracking tool that monitors a Flipkart product’s price, logs price history, and sends an email alert when the price drops below a user-defined target.
 The script can be automated to run daily using Windows Task Scheduler or Linux cron.
 
